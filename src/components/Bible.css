@@ -6,9 +6,16 @@
 
 .bible-img {
     position: absolute;
-    margin: 12% 0 0 0;
-    transform: scale(0.5);
+    margin: 13% 0 0 0;
+    transform: scale(0.4);
     animation: hover 4s infinite;
+}
+
+@media only screen and (max-width: 768px) {
+    .bible-img {
+        margin: 30% 0 0 0;
+        transform: scale(0.3);
+    }
 }
 
 @keyframes hover {
