@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Norris-Jokes/static/css/main.c0aa0d95.chunk.css",
+    "main.js": "/Norris-Jokes/static/js/main.9a0e91d8.chunk.js",
+    "main.js.map": "/Norris-Jokes/static/js/main.9a0e91d8.chunk.js.map",
+    "runtime-main.js": "/Norris-Jokes/static/js/runtime-main.a8d9474f.js",
+    "runtime-main.js.map": "/Norris-Jokes/static/js/runtime-main.a8d9474f.js.map",
+    "static/js/2.108d9499.chunk.js": "/Norris-Jokes/static/js/2.108d9499.chunk.js",
+    "static/js/2.108d9499.chunk.js.map": "/Norris-Jokes/static/js/2.108d9499.chunk.js.map",
+    "static/js/3.d86a73c3.chunk.js": "/Norris-Jokes/static/js/3.d86a73c3.chunk.js",
+    "static/js/3.d86a73c3.chunk.js.map": "/Norris-Jokes/static/js/3.d86a73c3.chunk.js.map",
+    "index.html": "/Norris-Jokes/index.html",
+    "static/css/main.c0aa0d95.chunk.css.map": "/Norris-Jokes/static/css/main.c0aa0d95.chunk.css.map",
+    "static/js/2.108d9499.chunk.js.LICENSE.txt": "/Norris-Jokes/static/js/2.108d9499.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a8d9474f.js",
+    "static/js/2.108d9499.chunk.js",
+    "static/css/main.c0aa0d95.chunk.css",
+    "static/js/main.9a0e91d8.chunk.js"
+  ]
+}
